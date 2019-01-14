@@ -1,0 +1,2 @@
+# DjangoWebApp
+Basis for a working Python, Django based web application. Initial purpose of this project is to facilitate a thorough understanding of how a fully functional web application with database integration, authentication, and the MVC design pattern is formed. My main goal is to iteratively start from basic command line setup of the django project framework, and then build up to a complete WebApp, deployed and hosted on a remote server.
